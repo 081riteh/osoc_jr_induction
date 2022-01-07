@@ -1,0 +1,10 @@
+About merge conflict:-
+       merge conflicts generally arises when two people have changed the same lines in a file ,or if one developer deleted a file while another developer was modifying it.
+       in this task merge conflict ocuur when we changed in same file name "new_text_file.txt" in main branch as well as "new_branch". git cannot automatically figure out which is correct.
+
+       merge conflict occur while starting the merge and during the merge.
+
+
+How to resolve merge conflict:-
+
+       to resolve merge conflict ,we can manually remove the unnecessary part from any one of the branches ,and only consider the content of the branch that is important for further use,along with removing the "conflict deviders" from our file .once the conflict has been resolved we can use the git add command to move the new changes to the staging area ,and then git commit to commit changes
