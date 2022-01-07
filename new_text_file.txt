@@ -1,4 +1,3 @@
-this file is created in main branch with same name created in new_branch for make conflict
 1.git version - to check the version of git use this command.
 2.git remote - this command acts like a border,and if you need to connect with the outside world,you have to use the git remote command.
                this command will connect your local repository to the remote.

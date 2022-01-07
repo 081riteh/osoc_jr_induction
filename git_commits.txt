@@ -1,0 +1,30 @@
+commit 805eea8e4967b010be13c01f311756993bf1a56c
+Author: 081riteh <sritehkumar2000@gmail.com>
+Date:   Fri Jan 7 15:05:56 2022 +0530
+
+    about merge conflict
+
+commit 287b98cf842dbc53f1ec3bfd226517c29521bbbb
+Merge: c6a1768 005bc23
+Author: 081riteh <sritehkumar2000@gmail.com>
+Date:   Fri Jan 7 14:40:19 2022 +0530
+
+    merge conflict resolve
+
+commit c6a1768ab7755e677cc4081d38f5419f14484eec
+Author: 081riteh <sritehkumar2000@gmail.com>
+Date:   Fri Jan 7 14:35:31 2022 +0530
+
+    commit this file for conflict
+
+commit 005bc235f3df3d558c7f6f8e372d488d12e22181
+Author: 081riteh <sritehkumar2000@gmail.com>
+Date:   Fri Jan 7 14:31:59 2022 +0530
+
+    commit text file in new_branch
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
