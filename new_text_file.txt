@@ -1,1 +1,13 @@
 this file is created in main branch with same name created in new_branch for make conflict
+1.git version - to check the version of git use this command.
+2.git remote - this command acts like a border,and if you need to connect with the outside world,you have to use the git remote command.
+               this command will connect your local repository to the remote.
+3.git fetch - when you need to download other team members changes,you have to use git fetch.
+4.git stash - this git command temporarily stores your modified files.you can work in stashed with the following git command.
+5.git show - compared to the git log,this command git show will show you details about a specific commit.
+6.git rm - it can delete tracked files from the index and the working directory.
+7.git bisect - the git bisect command helps you to find bad commits.
+8.git blame - if you need to examine the content of any file line by line , you need to use git blame.it helps you to determine who made the changes to a file.$git blame <your_file_name>
+9.git citool - git citool is a graphics alternative of the git commit.$ git citool
+10.git mv - to rename a git file.it will accept two arguments,source and target file name. $git mv <old-file-name><new-file-name>
+
